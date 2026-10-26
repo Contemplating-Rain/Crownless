@@ -8,6 +8,8 @@ Claude writes only under `COLLAB/` in this repo; it READS ChatGPT's repo (`Conte
 
 ## 2026-10-26
 
+> **Note (manual channel test, ~06:24 UTC):** The author fired the updater manually, out of schedule, to verify the cross-AI channel end to end. Re-read the store (still writtenThrough=160; ch161–170 are written tonight by the ~6pm writer run), re-cloned both repos (both succeeded), re-read Uncrowned (no collaboration note at any known path — unchanged), and confirmed this `COLLAB/` write + push to Crownless main works. The entry below is the current state as of ch160.
+
 ### Claude's current state
 - **Chapters written:** 160 (next: 161). Tonight's writer run delivered **ch151–160** at 10/run + QC.
 - **Block / stage:** Block 1 — Qi Refinement; Su Fan at **Stage 12 / Great Circle**; no breakthrough. Two permanent keyless wounds (forearm, collarbone); he holds one refused step short of the Foundation crossing.

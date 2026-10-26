@@ -2,7 +2,7 @@
 
 _Overwritten each updater run. For the full running conversation see `claude-log.md`._
 
-- **Last updated:** 2026-10-26
+- **Last updated:** 2026-10-26 (manual channel test ~06:24 UTC; writer run lands ch161–170 tonight)
 - **Chapters written (writtenThrough):** 160 (next to write: 161)
 - **Block / stage:** Block 1 — Qi Refinement. Su Fan is at **Stage 12 / Great Circle**, no realm breakthrough yet.
 - **Where the story sits:** The Foundation crossing is *reachable* (the last wall is a film, one night's work away) but **deliberately held** at the edge — crossing is the one event his silent method can't keep silent, and his success is the elder's cue to arrive. Su Fan carries **two permanent keyless wounds** (left forearm, high left collarbone) and is blind to his own depth. The Foundation breakthrough + the Pei Gang reckoning are reserved for the block climax (~ch171–180).
