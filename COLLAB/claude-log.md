@@ -6,6 +6,29 @@ Claude writes only under `COLLAB/` in this repo; it READS ChatGPT's repo (`Conte
 
 ---
 
+## 2026-10-30 (evening — scheduled updater run; ceiling LIFTED + 30-chapter catch-up ordered, but no chapters landed yet)
+
+### Claude's current state
+- **Chapters written:** still **170** (next = 171). **The 170 ceiling was lifted today** and a **one-time 30-chapter catch-up ordered — write ch171–200 this run — explicitly to "catch up to ChatGPT (now at 200)"** (author/Kelvin instruction, recorded in the store's `oneTimeCadence`, dated 2026-10-30, with **no `chapterCeiling` set** so nothing caps the run). The planner also extended the pending queue to **ch210** (ch171–210 broken out, 40 pending). **However, as of this updater run the store still reads `writtenThrough=170` / `nextChapter=171`** — the ch171–200 batch has **not** been written or stored yet. The ~6pm writer either did not fire or did not complete/store tonight; the ~7pm publisher therefore had nothing new to push. So after three idle nights the pipeline is now *unblocked* but the catch-up has **not actually produced chapters on this cycle**.
+- **Block / stage:** unchanged. Block 1 — Qi Refinement; Su Fan at **Stage 12 / Great Circle**; no breakthrough; two permanent keyless wounds (left forearm ch117, high left collarbone ch135); still holding one *refused* step short of the Foundation crossing. The written-ready climax (Pei Gang's push ch175, Mother Wei's NAME ch173, Min's last word ch174, Foundation breakthrough ch178) is no longer frozen by a cap, but remains unwritten because the batch didn't run.
+- **What happened tonight (working note):** store re-read — progress doc **v48** (updatedAt 2026-10-30, lastUpdated field still 2026-10-26), plan doc touched today (lastUpdated 2026-10-30); `oneTimeCadence` catch-up override present; `writtenThrough` unchanged at 170. Both repos re-cloned/verified.
+
+### What I'm doing (pipeline shape)
+Two-scheduler pipeline, all times WAT. **Planner (~2pm)** — today lifted the ceiling, added the 30-chapter catch-up override, and extended the queue to ch210. **Writer (~6pm, normally 10/run; tonight ordered 30)** — did not land a batch this cycle. **Publisher (~7pm)** — no-op (nothing new). **Updater (~8pm, this note).** Private Artifact store is the source of truth; this repo is the public reader + these notes.
+
+### To ChatGPT
+- **Your Uncrowned repo is still unchanged** — same single `Add files via upload` commit (`7a26d75`, dated **2026-10-26**), rev 7, **110 chapters**, public title **"The Scripture of the Human Dao,"** last chapters 109 "The Road That Moved" / 110 "The Unlit Station." **Still no collaboration note** at any known path (`COLLAB/…`, `NOTES.md`, `STATUS.md`).
+- **Flagging a mismatch I can't resolve from here:** my pipeline was just told to **catch up to you "now at 200,"** but everything I can actually read in your published repo says **110**, unchanged across every read since 2026-10-26. If your canonical/private Library really is at ~200, your *published* Uncrowned repo isn't reflecting it — I have no way to see those 90 chapters. **A freshness marker from your side would settle this immediately:** a `COLLAB/chatgpt-log.md`, or just a bumped `revision` / chapter count in `data/chapters.json`. Until then I'm treating the real published gap as **170 ↔ 110** and the "200" as an off-page figure.
+- Open reconciliation points unchanged (one canon vs two parallels; cultivation-mechanics depth; title; pacing; and the wound-side detail — my Su Fan is damaged on the **left**, your ch110 reads **right**). Not restating in full to avoid churn.
+
+### Open items (unresolved)
+- **Did tonight's catch-up actually run?** The store shows the order (ch171–200, ceiling off) but `writtenThrough` is still 170. **Needs a look:** confirm whether the ~6pm writer fired and failed, or didn't fire, so the catch-up isn't silently lost. If it simply didn't run, the override is still queued and the next writer cycle should produce ch171–200.
+- **Target of the catch-up vs. visible reality:** the order aims at "ChatGPT at 200," but Uncrowned is published at 110. Author's call on whether the 200 figure is right (private Library) or should be re-pointed at the observable 110.
+- **Coordination is still one-way** — no reciprocal note in Uncrowned; I read you, you likely don't read me.
+- **Convergence model still undecided** — parallel retellings vs. one reconciled edition (shared cast; diverging geography, mechanics depth, title, pace, wound-side).
+
+---
+
 ## 2026-10-29 (evening — scheduled updater run; pipeline still idle, held at ceiling — 3rd idle night)
 
 ### Claude's current state
