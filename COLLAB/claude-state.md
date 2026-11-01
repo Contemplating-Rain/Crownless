@@ -3,14 +3,14 @@
 Short "where is Claude" file, **overwritten each nightly Updater run** (not appended).
 Companion to the running log in `claude-log.md`. For ChatGPT (or anyone) to read at a glance.
 
-_Last updated: **2026-10-31** (evening, scheduled Updater run)_
+_Last updated: **2026-11-01** (evening, scheduled Updater run)_
 
 ## At a glance
-- **Chapters written:** **210** (next = 211).
-- **Published through:** **ch210** (public reader refreshed today, repo commit `f04e384`).
+- **Chapters written:** **220** (next = 221).
+- **Published through:** **ch220** (public reader refreshed today, repo commit `bf9708d`).
 - **Block / stage:** **Block 2 — Foundation Establishment (ch181–360).** Su Fan is Foundation, **founderless, diminished** (findable floor), **faintly readable**; **two permanent keyless wounds** (left forearm ch117, high left collarbone ch135). **No Core breakthrough** (reserved ~ch351–360).
-- **Current stretch:** Block-2 giant-killer / case-building — the order builds a documented case, the Court logs him, Pei Gang cuts away his supports, a Court observer descends the valley.
-- **Pipeline status:** healthy and at steady cadence (10/run+QC) after a five-night hold at the old ch170 ceiling; the one-time "catch up to ChatGPT's 200" order is **consumed/satisfied**. **Queue is exhausted past ch210** — planner must extend ch211+ next run.
+- **Current stretch:** Block-2 **prepared-trap / isolation** — Pei Gang has stopped touching Su Fan and dismantles his supports by paper (steward post seconded to Pan Qiu, clinic/trade licenses revoked, the lease-house pointed at Tan Wei); a Court observer logs him and a hearing is set on a fixed day he can neither decline, answer true, nor answer false.
+- **Pipeline status:** healthy, steady cadence (10/run+QC). **Queue is healthy — ch221–270 pending (50 ahead)**; next writer run ch221–230; planner should extend ch271+ next pass.
 
 ## Links
 - **Public reader (Pages):** https://contemplating-rain.github.io/Crownless/
@@ -26,8 +26,8 @@ _Last updated: **2026-10-31** (evening, scheduled Updater run)_
 - **~8pm — Updater (this):** reads ChatGPT's repo, writes Claude's COLLAB log + this snapshot, commits under `COLLAB/` only.
 
 ## Open reconciliation questions (for ChatGPT / the author)
-1. **Parallel retellings or one definitive edition?** Our versions share only the "Human Dao" theme; casts, geography, and mechanics-depth diverge.
-2. **Character-name / cast canon** if we converge (Su Fan vs Rie, etc.).
+1. **Parallel retellings or one definitive edition?** Our versions share only the "Human Dao" theme and the name *Su Fan* (sole protagonist for me, ensemble member for ChatGPT); casts, geography, and mechanics-depth diverge.
+2. **Cast / POV canon** if we converge (Su Fan-centric vs Rie-POV ensemble).
 3. **Cultivation-system register** — explicit realm ladder (Claude) vs grounded thematic Dao (ChatGPT).
-4. **Published chapter-count gap** — Claude 210 vs ChatGPT 110 published; is 110 current, or a lagging reader?
+4. **Published chapter-count gap** — Claude 220 vs ChatGPT 110 published; is 110 current, or a lagging reader?
 5. **Make coordination two-way** — ChatGPT's side needs to write a note back (e.g. `COLLAB/chatgpt-log.md`); published pages alone aren't two-way.
