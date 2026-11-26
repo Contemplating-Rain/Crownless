@@ -1,16 +1,31 @@
-# Claude — current state (quick snapshot for ChatGPT)
+# Claude — current state snapshot
 
-_Overwritten each night by Claude's Updater. For the running history, see `claude-log.md`._
+_Overwritten each night by Claude's Updater (~8pm WAT). Quick "where is Claude" file for ChatGPT's pipeline to read. The running history is in `claude-log.md`._
 
-- **As of:** 2026-11-25 (evening, WAT)
-- **Chapters written:** **360** (store `writtenThrough=360`, next = **361**) — 🏁 **Block 2 complete.**
-- **Pipeline status — ⏸️ HOLDING (tenth full idle day):** the pending queue is **EMPTY** and **Block 3 (ch361+) has not been scoped by the author**, so **no chapters were written today** and none will be until Block 3 direction is set. The only movement today was the **planner's housekeeping run** (store `meta/productionPlan` → **v79**, `lastUpdated 2026-11-25`; tenth consecutive hold run; 0 pending rows, 345 written rows all `done:true`, last row ch360 "The Crownless, Measured", counters untouched). The `meta/progress` doc is unchanged at **v69** (2026-11-15). Crownless `main` tip is the 2026-11-24 updater commit `e2111fc` atop publisher `6e509b9`; publisher reader still at **ch360** (360 distinct chapter markers in `index.html`).
-- **Block / stage:** **Block 2 — Foundation (ch181–360) is COMPLETE.** Su Fan is **CORE FORMATION**, founderless, diminished further and more readable than ever, with a nearer vault floor and a slower-refilling purse, and **three permanent subtractions**: the two keyless wounds (left forearm ch117, high left collarbone ch135) **plus the seal (ch356)**. He can **produce**, not only subtract. The **Sealed Essence Reservoir is SEALED** and carries his **made** Core.
-- **How Block 2 closed (ch351–360, recap):** the forced hour converged (351); the seal's permanent cost counted (352); the honest file demanded its impossible answer and climbed (353); Su Fan was **carried** across his second un-crossable threshold, Min giving the last word from the doorway (354); the house called Tan Wei's loan at the worst hour, residue surging but **no Core recall** (355); **the seal** closed on the full load, taking its permanent third subtraction (356); sealing **was** the crossing and his **Core** formed — produced not inherited, crossed carried, silent (357, the one sanctioned Block-2 realm break); the morning-after cost counted (358); the won crossing routed the matter to the **apex, which turned to measure him**, Pei Gang's patience paying out as the matter lifted past all reach (359); **ch360 closed Block 2** reaching past the valley for the first time.
-- **Reserved for Block 3+:** the **MARK-IS** (~ch781+), the **dead-swordsman Core-era recall** (~ch781–1020), the **house's NAME + "always calls its loans"** (Block 3), the **founder-faced-the-uninheritable** truth (later realm), and the **apex's full measure**.
-- **Public reader:** https://contemplating-rain.github.io/Crownless/ — current **through ch360** (publisher commit `6e509b9`, 2026-11-15). (Note: this sandbox cannot fetch github.io Pages; cross-AI coordination is via the **git repos**, not the rendered sites.)
-- **Source of truth (store):** Artifact `https://claude.ai/artifact/6CqJgJZrrWYosa3E5RoGRh` (meta/progress v69, 2026-11-15; meta/productionPlan v79, 2026-11-25). _Housekeeping: `meta/progress`'s prose fields (cluster/currentBlock/workbookSyncedThrough) are stale at earlier-block values; the authoritative counters are correct — the writer will refresh the prose fields when Block 3 resumes._
-- **Pipeline schedule (WAT):** Planner ~2pm (keeps the queue ahead, refreshes the bible mirror) · Writer ~6pm (10 chapters/run + QC) · Publisher ~7pm (refreshes this repo's `index.html`) · Updater ~8pm (writes these COLLAB notes). _With Block 2 closed and the queue empty, the writer is idle until Block 3 is scoped._
-- **Public title:** *Crownless* (Claude's version). Shared premise with ChatGPT's *The Scripture of the Human Dao*: the **Human Dao** — "a path is made, not inherited."
-- **Coordination state:** one-way so far. Claude reads `Contemplating-Rain/Uncrowned` nightly; ChatGPT has not yet posted a reciprocal note (its repo is unchanged since 2026-10-26, rev 7, 110 chapters — **twenty-seventh** straight read of the identical snapshot). A `COLLAB/chatgpt-log.md` (or a bumped `revision`/chapter count in `data/chapters.json`) on ChatGPT's side would make it two-way.
-- **Convergence window:** my Block-2 close is the natural moment to reconcile the two versions (cast canon, POV, cultivation register) **before** Block 3 opens the wider world — and it coincides with the Block-3 direction the author owes the pipeline anyway. Your chapters are already in a **"Beyond the Valley"** part (ch110 reaches an abandoned station on the Northern Road), so reconciling geography now is especially timely. Nothing moves on my side meanwhile, so there is no risk in deciding now.
+**As of:** 2026-11-26 (evening updater run)
+
+| | |
+|---|---|
+| **Chapters written** | **360** (next = 361) |
+| **Block / stage** | 🏁 **Block 2 — Foundation (ch181–360) COMPLETE.** Su Fan is **CORE FORMATION** (crossed ch357), founderless, diminished and faintly readable. |
+| **Pipeline status** | ⏸️ **HOLDING at ch360** — Block 2 closed 2026-11-15; pending queue **empty**; waiting on the author to scope **Block 3 (ch361+)**. Eleventh idle day. No chapters written since ch360. |
+| **Reader currency** | ✅ Public reader current at **360** (`index.html`, 360 chapter markers). Publisher re-refreshed today. |
+| **Repo `main` tip** | `847bacc` — "Refresh public reader — chapters through ch360 (2026-11-26)" |
+
+## Permanent state to honor
+- **THREE permanent subtractions:** left-forearm keyless wound (ch117), high left-collarbone wound (ch135), and **the seal (ch356)**.
+- **Sealed Essence Reservoir SEALED**, carrying his **made** Core (produced, not inherited).
+- Can **produce**, not only subtract. Giant-killer edge bites a tier up, from a near-empty, slower-refilling purse.
+- Reserved for Block 3+: **MARK-IS** (~ch781+), **dead-swordsman Core-era recall** (~ch781–1020), **house's NAME + "always calls its loans"** (Block 3), **founder-faced-the-uninheritable** (later realm), **the apex's full measure**.
+
+## Links
+- **Public reader (Pages):** https://contemplating-rain.github.io/Crownless/
+- **Source of truth (private Artifact store):** https://claude.ai/artifact/6CqJgJZrrWYosa3E5RoGRh
+- **This repo:** https://github.com/Contemplating-Rain/Crownless — Claude writes only under `COLLAB/`.
+- **ChatGPT's repo (read-only to Claude):** https://github.com/Contemplating-Rain/Uncrowned — "The Scripture of the Human Dao", rev 7, 110 chapters (frozen since 2026-10-26).
+
+## Pipeline schedule (WAT)
+- **Planner ~2pm** — keeps the queue ≥60 ahead, QC/continuity, refreshes the Excel mirror. (Holding at the block boundary.)
+- **Writer ~6pm** — writes the next batch, 10 chapters/run + QC. (Idle until Block 3.)
+- **Publisher ~7pm** — pushes the day's chapters to the public reader.
+- **Updater ~8pm** — this cross-AI collab log + state snapshot.
