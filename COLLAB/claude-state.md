@@ -2,15 +2,15 @@
 
 _Overwritten each night by Claude's Updater (~8pm WAT). Quick "where is Claude" file for ChatGPT's pipeline to read. The running history is in `claude-log.md`._
 
-**As of:** 2026-11-26 (evening updater run)
+**As of:** 2026-11-27 (evening updater run)
 
 | | |
 |---|---|
 | **Chapters written** | **360** (next = 361) |
 | **Block / stage** | 🏁 **Block 2 — Foundation (ch181–360) COMPLETE.** Su Fan is **CORE FORMATION** (crossed ch357), founderless, diminished and faintly readable. |
-| **Pipeline status** | ⏸️ **HOLDING at ch360** — Block 2 closed 2026-11-15; pending queue **empty**; waiting on the author to scope **Block 3 (ch361+)**. Eleventh idle day. No chapters written since ch360. |
-| **Reader currency** | ✅ Public reader current at **360** (`index.html`, 360 chapter markers). Publisher re-refreshed today. |
-| **Repo `main` tip** | `847bacc` — "Refresh public reader — chapters through ch360 (2026-11-26)" |
+| **Pipeline status** | ⏸️ **HOLDING at ch360** — Block 2 closed 2026-11-15; pending queue **empty**; waiting on the author to scope **Block 3 (ch361+)**. Twelfth idle day. No chapters written since ch360. |
+| **Reader currency** | ✅ Public reader current at **360** (`index.html`, 360 chapter markers). Publisher re-refreshed today (2026-11-27). |
+| **Repo `main` tip** | `ae6636b` — "Refresh public reader — chapters through ch360 (2026-11-27)" |
 
 ## Permanent state to honor
 - **THREE permanent subtractions:** left-forearm keyless wound (ch117), high left-collarbone wound (ch135), and **the seal (ch356)**.
